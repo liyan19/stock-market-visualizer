@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NbcStockMarketApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Holla world");
 		SpringApplication.run(NbcStockMarketApplication.class, args);
 	}
 
